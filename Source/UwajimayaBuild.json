@@ -1,0 +1,47 @@
+{
+    "Version": "1.3",
+    "Name": "Uwajimaya",
+    "NameDemo": "UwajimayaPrologue",
+    "DisplayedTitle": "INVTEXT(\"Uwajimaya\")",
+    "DisplayedTitleDemo": "INVTEXT(\"Uwajimaya: Prologue\")",
+    "Loading": {
+        "Image": "/Game/SO/GUI/art/Loading/uwajimaya_new.uwajimaya_new",
+        "ImageDemo": "/Game/SO/GUI/art/Loading/uwajimaya_new_prologue.uwajimaya_new_prologue"
+    },
+    "Sentry": {
+        "Organization": "daniel-butum",
+        "Project": "uwajimaya",
+        "ProjectDemo": "uwajimaya-prologue",
+        "URL": "https://sentry.io/api/3469726/unreal/dd1d2cc8c1ea4f60ba2dd9a9a6b2f698/",
+        "URLDemo": "https://sentry.io/api/1873711/unreal/95a09c291e6f4a048230ced4bba04102/"
+    },
+    "Itch": {
+        "UserProject": "",
+        "UserProjectDemo": "sabrave/uwajimaya-prologue"
+    },
+    "Discord": {
+        "IS_ENABLED": false,
+        "CLIENT_ID": "588757585956438026",
+        "CLIENT_ID_DEMO": "651760715702468608"
+    },
+    "Steam": {
+        "IS_ENABLED": true,
+        "IS_RICH_PRESENCE_ENABLED": false,
+        "APP_ID": 790360,
+        "APP_ID_DEMO": 1193760,
+        "RELAUNCH_IN_STEAM": true,
+        "CHECK_IF_LIBRARY_CHECKSUM_MATCHES": true,
+        "LIBRARY_WINDOWS_API64_SHA1_SUM": "fa732757f9aaa47e8de4ecfcabc07b5df4f0f1cf"
+    },
+    "Video": {
+        "DEMO": false,
+        "INTRO": true
+    },
+    "PublicDefinitions": {
+        "UWAJIMAYA_DEMO": false,
+        "UWAJIMAYA_USE_ASUS_AURA_SDK": true,
+        "UWAJIMAYA_ALLOW_CONSOLE_CHEATS_DEFAULT": true,
+        "UWAJIMAYA_PASSWORD_ENABLE_CONSOLE_CHEATS": "spline scroller",
+        "UWAJIMAYA_PASSWORD_SAVE_FILE": "9hFhJyJRdzmf"
+    }
+}
