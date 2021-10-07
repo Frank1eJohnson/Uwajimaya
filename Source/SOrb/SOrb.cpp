@@ -13,6 +13,8 @@
 #include "Localization/SoLocalizationHelper.h"
 #include "FMODStudioModule.h"
 
+#include "DlgManager.h"
+
 #if UWAJIMAYA_WITH_SDL2
 #include "INotYetSDL2Module.h"
 #endif // UWAJIMAYA_WITH_SDL2
@@ -44,6 +46,8 @@ void FUwajimayaGameModule::StartupModule()
 #endif
 
 	Init();
+
+	UDlgManager::LoadAllDialoguesIntoMemory();
 }
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
