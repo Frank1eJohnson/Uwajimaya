@@ -6,7 +6,7 @@ Uwajimaya is a hardcore action platformer where you play as a demon who is trapp
 
 ## 🎥 Trailer
 
-https://github.com/Sabrave/Uwajimaya/raw/master/Trailer.mp4
+https://user-images.githubusercontent.com/60977360/154796207-df6fb797-a918-4aa4-b809-48d2ec78d03f.mp4
 
 ## About
 
